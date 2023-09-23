@@ -1,2 +1,2 @@
-# ResumeDone
-It is a dynamic resume generator created using HTML, CSS, Javascript, Bootstrap.
+# ConvenientCart
+It is an online grocery store created using HTML, CSS, Javascript.
